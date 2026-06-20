@@ -6,7 +6,6 @@
 
 # Marcus Vinicius
 
-### Software Developer
 
 </div>
 
