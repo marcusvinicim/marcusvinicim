@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="assets/goku.gif" width="40%">
+  <img src="assets/goku.gif" width="100%">
 </p>
 
 # Marcus Vinicius
