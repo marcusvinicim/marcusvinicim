@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/goku.gif" width="100%">
+<p align="center">
+  <img src="assets/goku.gif" width="40%">
+</p>
 
 # Marcus Vinicius
 
@@ -22,57 +24,11 @@ Passionate about clean architecture, high-performance systems, embedded systems,
 
 ## Technologies
 
-### ☕ Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,angular,typescript,javascript,postgres,mysql,docker,linux,git,python,c,cpp&perline=7" />
 </p>
 
-Java, Spring Boot, REST APIs, Authentication, Authorization, JPA/Hibernate and scalable backend services.
-
----
-
-### 🌐 Frontend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,typescript,javascript" />
-</p>
-
-Development of modern web applications using Angular, TypeScript and JavaScript.
-
----
-
-### 🗄️ Database Engineering
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" />
-</p>
-
-Database modeling, SQL optimization, relational databases and data persistence.
-
----
-
-### ⚙️ Infrastructure & Development Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,maven" />
-</p>
-
-Containerization, Linux environments, version control, build automation and development workflows.
-
----
-
-### 💻 Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,typescript" />
-</p>
-
-Experience with object-oriented programming, systems programming, automation and software development.
-
----
-
-<div align="center">
+Focused on Software Architecture, Backend Engineering, Database Design, Distributed Systems, Embedded Systems, Linux Environments, and Scalable Application Development.
 
 > **"Stay Hungry. Stay Foolish."**
 >
